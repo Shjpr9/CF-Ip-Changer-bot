@@ -20,4 +20,4 @@ Next, BotFather will ask you to choose a username for your bot. This username mu
 BotFather will then give you an API token for your bot. Save this token as you will need it to authenticate your bot when making API requests.
 That's it! You have now created a Telegram bot using BotFather. You can use the API token provided by BotFather to set a webhook and point it to the code.
 
-#Make sure to change $token in main.php with your bot token
+# Make sure to change $token in main.php with your bot token
